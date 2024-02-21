@@ -1,0 +1,15 @@
+# Example of a while-loop, notice how it takes a conditional expression.
+# Useful when we want something to execute until a condition has been met.
+i = 0
+while i < 5:
+    print(i)
+    i += 1
+
+# Example of a for-loop. Useful when we know exactly how many times 
+# we want to execute some code. 
+for i in range(5):
+    print(i)
+
+# FOR CODE COACHES. TODO: Show arrays and lists after this.
+
+   
