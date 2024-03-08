@@ -1,6 +1,7 @@
-# Welcome to Our Project
+# Welcome to Python Concepts.
 
-Welcome to our project! This repository contains the source code for our amazing project.
+This repository serves as a resource for Code Coaches who need immediate material to discuss necessary
+topics, such as coding fundamentals in Python.
 
 ## Getting Started
 
