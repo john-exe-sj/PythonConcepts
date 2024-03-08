@@ -17,6 +17,7 @@ git clone https://github.com/john-exe-sj/PythonConcepts.git
 
 Once cloned, set up a virtual environment within the same directory. Here are some sources to assist.
 Recommend VSCode for faster set up. 
+
 https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
 
 https://docs.python.org/3/library/venv.html
