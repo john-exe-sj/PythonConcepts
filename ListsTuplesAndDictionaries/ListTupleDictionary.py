@@ -1,3 +1,4 @@
+
 """
 Lists:
 A list is a collection of items that can be of different types and is mutable, 
@@ -7,10 +8,6 @@ meaning you can change its elements after creation.
 my_list = [1, 2, 3, 4, 5]
 print("List:", my_list)
 
-# Add an element to the list
-my_list.append(6)
-print("List after appending:", my_list)
-
 # Access an element by index
 print("Element at index 2:", my_list[2])
 
@@ -18,9 +15,17 @@ print("Element at index 2:", my_list[2])
 my_list[0] = 10
 print("Modified list:", my_list)
 
-# Remove an element
+# Add an element to the list
+my_list.append(6)
+print("List after appending:", my_list)
+
+# Remove an element from the list
 my_list.remove(3)
 print("List after removing element 3:", my_list)
+
+# Inserts an element to the list, given an index.
+my_list.insert(1, 53)
+print("List after inserting element 53 on index 1", my_list)
 
 """
 Tuples:
